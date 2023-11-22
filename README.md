@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Oliver Praesto</h1>
+<h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A blazing frontend developer from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliie&label=Profile%20views&color=0e75b6&style=flat" alt="oliie" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliie&label=Profile%20views&color=0e75b6&style=flat" alt="oliie" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliie" alt="oliie" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliie" alt="oliie" /></a> </p> -->
 
 - 🌱 I’m currently learning **everything about databases**
 

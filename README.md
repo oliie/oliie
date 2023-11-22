@@ -2,6 +2,8 @@
 
 [![oliie's GitHub | Languages Over Time](https://stats.quine.sh/oliie/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oliie)
 
+[![oliie's Stack Overflow | Stats](https://stats.quine.sh/oliie/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oliie)
+
 <!--
 **oliie/oliie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

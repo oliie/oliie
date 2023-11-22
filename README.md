@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oliver Praesto</h1>
-<h3 align="center">A blazing frontend developer from Sweden 🇪</h3>
+<h3 align="center">A blazing frontend developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliie&label=Profile%20views&color=0e75b6&style=flat" alt="oliie" /> </p>
 
